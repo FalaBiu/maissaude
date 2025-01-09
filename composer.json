@@ -1,0 +1,5 @@
+{
+    "require": {
+        "harrygulliford/laravel-firebird": "^3.3"
+    }
+}
